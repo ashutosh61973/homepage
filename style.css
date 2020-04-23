@@ -1,4 +1,5 @@
 body{
-  background:hsla(133, 84%, 47%, 0.87);
-  color:hsla(316, 69%, 22%, 0.918);
+  background:hsla(135, 100%, 2%, 0.87);
+  color:hsla(130, 100%, 54%, 0.918);
+  text-shadow: 10px 10px 20px hsla(130, 100%, 54%, 0.918);
 }
